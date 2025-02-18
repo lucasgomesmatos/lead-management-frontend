@@ -19,7 +19,9 @@ $ git clone  https://github.com/lucasgomesmatos/lead-management-frontend.git
 
 # renomeie o arquivo .env.example para .env e adicione as variáveis de ambiente
 
-VITE_API_URL= URL da API do backend que você pode clonar
+VITE_API_URL= URL da API 
+
+# O backend que você pode clonar
 
 $ git clone https://github.com/lucasgomesmatos/lead-management-backend.git
 
@@ -31,3 +33,8 @@ $ npm install
 
 $ npm run dev
 ```
+
+![image](https://i.imgur.com/fKvbQUr.png)
+
+
+![image](https://i.imgur.com/buyyU62.png)
